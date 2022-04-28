@@ -1,2 +1,3 @@
 # Calculator
-Day 10 of 100 Days of Python
+
+Basic calculator that runs in the console and does the 4 basic operations (+ - * /)
